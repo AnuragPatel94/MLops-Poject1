@@ -145,7 +145,7 @@ Response:
 {"prediction": 0}
 ```
 
----
+
 
 ## 🐳 Docker Support
 
